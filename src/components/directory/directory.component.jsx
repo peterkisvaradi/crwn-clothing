@@ -1,5 +1,5 @@
 import React from 'react';
-import { sections } from '../../directory.data.js';
+import { sections } from '../../data/directory.data';
 
 import './directory.styles.scss';
 
